@@ -1,2 +1,2 @@
 # my-first-repo
-pratice account to learn github
+pratice account for learning github
